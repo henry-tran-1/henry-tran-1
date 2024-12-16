@@ -1,4 +1,4 @@
-## Hi there 👋
+# 👋 Hi! I'm Henry
 
 <!--
 **henry-tran-1/henry-tran-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
