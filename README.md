@@ -8,7 +8,7 @@ I'm a Full-Stack Software Developer based in Auckland with a unique background i
 - 🌱 Growing a green thumb while growing my coding abilities
 
 # 📁 Projects
-🍎🥫 Biteshare: A web app that allows users to connect with each other and share food.  Implemented a static messaging system built using basic CRUD operations.  Built using TypeScript, React, Node.js, Express and SQLite3.
+🍎🥫 Biteshare: A web app that allows users to connect with each other and share food.  Implemented a static messaging system built using basic CRUD operations.  Built using TypeScript, React, Node.js, Express and SQLite3.<br>
 👪🌳: An interactive family tree app to visualise and explore relationships dynamically.  Uses recursive querying to display family connections. Built with Knex.js, SQLite3, and Express.
 
 # 🛠 Tech Stack
