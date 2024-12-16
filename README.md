@@ -9,6 +9,7 @@ I'm a Full-Stack Software Developer based in Auckland with a unique background i
 
 # 📁 Projects
 🍎🥫 Biteshare: A web app that allows users to connect with each other and share food.  Implemented a static messaging system built using basic CRUD operations.  Built using TypeScript, React, Node.js, Express and SQLite3.<br>
+
 👪🌳: An interactive family tree app to visualise and explore relationships dynamically.  Uses recursive querying to display family connections. Built with Knex.js, SQLite3, and Express.
 
 # 🛠 Tech Stack
@@ -19,12 +20,12 @@ I'm a Full-Stack Software Developer based in Auckland with a unique background i
 - Auth and Deployment: Auth0, Dokku
 - Testing: Unit Testing, Integration Testing, Storybook
 
-🚀 Currently Working on
+# 🚀 Currently Working on
 - Enhancing the user experience in BiteShare
 - Adding dynamic front-end rendering to Family Mapper
 - Building new project to help home buyers and renters in Auckland (🤫)
 
-🤝 Let's Connect!
+# 🤝 Let's Connect!
 - [Portfolio](https://henry-tran-1.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/henry-tran-dev/)
 - [GitHub](https://github.com/henry-tran-1)
